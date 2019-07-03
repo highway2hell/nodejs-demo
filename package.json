@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-demo",
+  "version": "1.0.0",
+  "description": "demo purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/highway2hell/nodejs-demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "jacob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/highway2hell/nodejs-demo/issues"
+  },
+  "homepage": "https://github.com/highway2hell/nodejs-demo#readme"
+}
